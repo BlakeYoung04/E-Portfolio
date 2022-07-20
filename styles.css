@@ -22,7 +22,7 @@ li {
 }
 
 .text--purple {
-    color: purple;
+    color: #0499fd;
 }
 
 /* NAVIGATION BAR */
@@ -64,6 +64,7 @@ nav {
 .personal_logo {
     font-size: 24px;
     color:#0499fd;
+    margin: 0 12px;
 }
 
 /* ABOUT ME */
@@ -122,4 +123,8 @@ img {
     flex: 1;
     display: flex;
     align-items: center;
+}
+
+.about-me__img {
+width: 100%;
 }
